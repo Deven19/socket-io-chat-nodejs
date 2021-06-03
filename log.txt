@@ -1,0 +1,83 @@
+{"datetime":"2019-03-16T10:58:03.244Z","message":"Server connected..."}
+{"datetime":"2019-03-16T10:58:03.505Z","message":"Server connected..."}
+{"datetime":"2019-03-16T10:58:04.473Z","message":"Server connected..."}
+{"datetime":"2019-03-16T11:07:34.209Z","message":"Client connected to server..."}
+{"datetime":"2019-03-16T11:07:37.947Z","message":"Client connected to server..."}
+{"datetime":"2019-03-16T11:07:38.344Z","message":"Client connected to server..."}
+{"datetime":"2019-03-16T11:07:43.335Z","message":"Client connected to server..."}
+{"datetime":"2019-03-16T11:07:51.870Z","message":"Client connected to server..."}
+{"datetime":"2019-03-16T11:07:52.849Z","message":"User join boradcast...","user":"dd has joined the chat"}
+{"datetime":"2019-03-16T11:07:55.647Z","message":"User join boradcast...","user":"dddd has joined the chat"}
+{"datetime":"2019-03-16T11:07:57.283Z","message":"UwKvQTtCplosKwAq4U7E8CpGrJyRFtd7fXt1eNz/Of8r82Nyfxl+AW6Hd2hC5p/T1ZBrbcpe72q0hhkq7hSoeg==","sender":"dddd"}
+{"datetime":"2019-03-16T11:08:00.644Z","message":"RX6rmDsEFxYwJHKAFdTa98uiWv8ipFDuOuTykvEVHVF74OyZM7UyslTK53e8Exw1QLVKSvijNBYndm1eTjWoDQ==","sender":"dd"}
+{"datetime":"2019-03-16T11:12:22.534Z","message":"Client connected to server..."}
+{"datetime":"2019-03-16T11:12:29.482Z","message":"Client connected to server..."}
+{"datetime":"2019-03-16T11:12:30.898Z","message":"User join boradcast...","user":"1 has joined the chat"}
+{"datetime":"2019-03-16T11:12:32.829Z","message":"User join boradcast...","user":"2 has joined the chat"}
+{"datetime":"2019-03-16T11:12:59.580Z","message":"CTvXXz0zffY2dMwxVkncdxJYHVs0CkHvdrPvFa2KvihGv9MBt7CuscK9Q3i5KqwVrv1kYDlvVJ0QCISiHpbbdA==","sender":"1"}
+{"datetime":"2019-03-16T11:13:01.150Z","message":"TJk+RW+/xVoaMC4FZp8S9jvWAglECGTw+yu28qDGeTmtoOrKa9rechdgWmsj7aDKCTbzQyUwYwg3tlOFN4EdVQ==","sender":"1"}
+{"datetime":"2019-03-16T11:14:13.827Z","message":"Client connected to server..."}
+{"datetime":"2019-03-16T11:14:14.174Z","message":"Client connected to server..."}
+{"datetime":"2019-03-16T11:14:14.188Z","message":"Client connected to server..."}
+{"datetime":"2019-03-16T11:14:20.988Z","message":"Client connected to server..."}
+{"datetime":"2019-03-16T11:14:23.798Z","message":"Client connected to server..."}
+{"datetime":"2019-03-16T11:14:24.975Z","message":"User join boradcast...","user":"dfdf has joined the chat"}
+{"datetime":"2019-03-16T11:14:28.595Z","message":"User join boradcast...","user":"dfdf has joined the chat"}
+{"datetime":"2019-03-16T11:14:29.335Z","message":"RmfNSmsbSSO7tOSezUP98Zxi22lfqG/l7Q9YkwbZjAM4nxP09X/AFvCo/xjeT7H88/tA05uLfWBFB0t3jjmGCQ==","sender":"dfdf"}
+{"datetime":"2019-03-16T11:14:31.806Z","message":"BflIqeEP5mFQ4Tsf5f0m8Kkui05GsuddnCcfwaN2DONxRvjGXWkQveZJRalHHwVuNkM9VdhHTrm9t4aTMcxBOg==","sender":"dfdf"}
+{"datetime":"2019-03-16T11:14:34.194Z","message":"MOwlqCoGa6e7DqLMhtTQfcYZlXiSbOuAjTmXaFwu2A9sDRljSrnIptJKsV+CrqTQ1aSmcSPaA25NmmtZzeeIBQ==","sender":"dfdf"}
+{"datetime":"2019-03-16T11:14:36.206Z","message":"NkyNx+T2WITUDNxnZlIHbTEIVI+8jA9BooSl1dz66Ej5Yq5Ay/3FOayRN8/FprdbbSKBUpQOH6giXKdl8ecbUg==","sender":"dfdf"}
+{"datetime":"2019-03-16T11:16:06.675Z","message":"Client connected to server..."}
+{"datetime":"2019-03-16T11:16:06.749Z","message":"Client connected to server..."}
+{"datetime":"2019-03-16T11:16:06.925Z","message":"Client connected to server..."}
+{"datetime":"2019-03-16T11:16:13.321Z","message":"Client connected to server..."}
+{"datetime":"2019-03-16T11:16:16.736Z","message":"Client connected to server..."}
+{"datetime":"2019-03-16T11:16:17.802Z","message":"User join boradcast...","user":"sd has joined the chat"}
+{"datetime":"2019-03-16T11:16:19.280Z","message":"User join boradcast...","user":"df has joined the chat"}
+{"datetime":"2019-03-16T11:16:20.027Z","message":"MvkleNU32bL/pg1hJ0JSXihc9jvTqekdz4ZWAZFDnh3JSP/QlW/SyLmM9oT63yTGjeBuzrWx5ollpflwW3O1jQ==","sender":"df"}
+{"datetime":"2019-03-16T11:16:21.608Z","message":"R0F7ROb784QuIr4Pc4EeGGwMR/LsF97IVIW71cElekEZn9qm10vElG3paLk9CQeILwrt552RL24JoUEoD7HdZA==","sender":"sd"}
+{"datetime":"2019-03-16T11:16:22.774Z","message":"LqdWnQkyGYd68e9mFGiQbf8JNKbLcZguS5qiBB8iZJsB6afroCW9Grf+IkVGhQyQQIOsP6rEy4Viddwq/4twcA==","sender":"sd"}
+{"datetime":"2019-03-16T11:16:24.856Z","message":"GQK7/tUKjNssxDtAYt0wVUwtzElnDMRZJj6z7gosvitEd1AD5D5jmTL1hG7bXqdANQ2pcgffPMqNfZAebf/GbQ==","sender":"df"}
+{"datetime":"2019-03-16T11:16:25.969Z","message":"Ms4JgCDjcjueViuzndOl/00dlilVK5FSna92crazdya4M6pD/lv8d5qeBm/un3GAlQ36gu+flHCua7Q2e7OivQ==","sender":"df"}
+{"datetime":"2019-03-16T11:16:26.663Z","message":"FiHUsl2lK15fHBrROORwOPICaD/gjztfQzqiRdoDHIO6jItIfQp0d9jMuRHndTzXAmp8gg+ct8mWilCa+oCafA==","sender":"df"}
+{"datetime":"2019-03-16T11:16:27.592Z","message":"G6Kq+HKMK/J8OlMbfy6kkop4Bkx1i5b9p4L7Lh6Pmz2AP1jjMt1TK/YuSOU/YD2QQi68TVisNz16UFX0MACwgw==","sender":"df"}
+{"datetime":"2019-03-16T11:16:28.150Z","message":"SZvqfNiHc4El1vUmLpQRUdXWH4hKfPXa0r+NFLqUv+dZhJrsTRwfD/uV+jVkLwiTnGVauP9IqnEw94RqALnD3g==","sender":"df"}
+{"datetime":"2019-03-16T11:16:29.175Z","message":"BaEK9zIb53IXPOhQ83ScTon2wawQWJNTWGIqLGNDHjz+sQLf0ApKZrq/qb8cEnjlLH907bkMZnDREWqjM6JOJA==","sender":"df"}
+{"datetime":"2019-03-16T11:16:30.526Z","message":"TYtLhTciugGXM3Uv2ph8jl65aYQm+iotPmejBHDmDqN2kPVWSIxPnyx3SwlmLLnKvjgm/7TIm7fx6MFBFHjLjA==","sender":"df"}
+{"datetime":"2019-03-16T11:16:33.571Z","message":"HDzW0vnqpmexi0P93KwjO5lx1RoRAwaVD5xOQIEdUJfUyY9yB0tzgEQvKm02PLXh4qGAwQZBHsefVFa9hHDXQw==","sender":"sd"}
+{"datetime":"2019-03-16T11:16:34.469Z","message":"BjL9p/diZ5XRmZpxk11s4lfg3FttDzs+g/FJs1MPtpmzC+AF7ktfeC4915czUVDYAHKogbkjLNwLBh7F3YsMKw==","sender":"sd"}
+{"datetime":"2019-03-16T11:16:36.536Z","message":"UBCXJkIDCS+w3k3lwNG+OAelU1u3bxUBOdj+4HMR/GuRfPtj5ntfSO8+T67/me437AdhmAqshbfxLFDXjwdpTQ==","sender":"sd"}
+{"datetime":"2019-03-16T11:17:08.564Z","message":"Client connected to server..."}
+{"datetime":"2019-03-16T11:17:11.924Z","message":"Client connected to server..."}
+{"datetime":"2019-03-16T11:17:12.869Z","message":"User join boradcast...","user":"d has joined the chat"}
+{"datetime":"2019-03-16T11:17:14.749Z","message":"User join boradcast...","user":"f has joined the chat"}
+{"datetime":"2019-03-16T11:17:15.545Z","message":"IT7GOdTfPZPpzix3CdvJzmy96NRSOFZeVTeGBq6t+uJXruiQ9FkKLMtXfjd3KkBr2EE7/rMyzr/JW9WNAsM2uA==","sender":"f"}
+{"datetime":"2019-03-16T11:17:42.088Z","message":"Client connected to server..."}
+{"datetime":"2019-03-16T11:17:42.094Z","message":"Client connected to server..."}
+{"datetime":"2019-03-16T11:17:42.095Z","message":"Client connected to server..."}
+{"datetime":"2019-03-16T11:17:48.947Z","message":"Client connected to server..."}
+{"datetime":"2019-03-16T11:17:49.970Z","message":"User join boradcast...","user":"d has joined the chat"}
+{"datetime":"2019-03-16T11:17:56.513Z","message":"Client connected to server..."}
+{"datetime":"2019-03-16T11:17:57.361Z","message":"User join boradcast...","user":"dddd has joined the chat"}
+{"datetime":"2019-03-16T11:17:58.894Z","message":"RBw4cdMAN9w8YMoU72PKlMkxFwPqJ5wT/R27xacixjkeelMNIf1lwnfTdvIhn7z7P1xW3NwptBEX+kchI0aCLA==","sender":"d"}
+{"datetime":"2019-03-16T11:18:01.468Z","message":"DRrWgDJmWrLqdkJApDEE7D1fG5WuPxdO1V/TiXrf7Zcs6pdnSejhGlDQ/JABLjR7Fn8WLO/w+4E0D1CBmf/flw==","sender":"dddd"}
+{"datetime":"2019-03-16T11:18:06.072Z","message":"Dqu/uN3+DUd2Cj8/xVNeULgN9HN4D0p7iM8zj3iS+BuHN4RuhNRYdGlD+eMCPm4/sy7lIL+UzxSo6s5SShg37Q==","sender":"dddd"}
+{"datetime":"2019-03-16T11:18:07.069Z","message":"G6rkzuEW0s4TWhZgPmow20aiem+gbKifA5ObL2lMsI6cTdGovsVBv+jl2y1vpAlEAh1tGA2YL6SmS3YvEFweeg==","sender":"dddd"}
+{"datetime":"2019-03-16T11:18:08.276Z","message":"CCsFWP1oR8kn4PR6N3adieZzS3D3Khgw2B4oL98uC60wpQO2Yy976CwTdPug7TllJpU7RbBJh/1LPn63tYK0mA==","sender":"dddd"}
+{"datetime":"2019-03-16T11:18:09.240Z","message":"Ow4fDl+J+NtCx9SLLFkeLpOee6Bxf5hpiDEl+eBLOxRLuEzuBsmbTZFbeHmKEQ2S50hq2w/KX94Y+oH2dcOqVA==","sender":"dddd"}
+{"datetime":"2019-03-16T11:18:11.275Z","message":"ARYaIMAtKiSyBGod9eJOp3lueoA1E2Wl5tGD1Futyqjv5Nm/Kk+xFtjRI9UIxgDYc6s4j0d0fyWCUd+iAOH94w==","sender":"d"}
+{"datetime":"2019-03-16T11:18:45.779Z","message":"Client connected to server..."}
+{"datetime":"2019-03-16T11:18:48.593Z","message":"Client connected to server..."}
+{"datetime":"2019-03-16T11:18:49.449Z","message":"User join boradcast...","user":"ddd has joined the chat"}
+{"datetime":"2019-03-16T11:18:51.126Z","message":"User join boradcast...","user":"rrr has joined the chat"}
+{"datetime":"2019-03-16T11:18:52.081Z","message":"BFFMhW8HKccGTlfFHvES77PhHq+yNgfN2cR+4D5bkLNbf4xH4JZmXEgZP2Ept22rfsWzPZwXWyfD9dXGZEL+Iw==","sender":"rrr"}
+{"datetime":"2019-03-16T11:18:55.250Z","message":"SPCRAY6RwOMEdak34qwy2GKGsyQwFtobIzXLhYFxE8XFbOpzo4FqzeN6Enk4c+yhsuq4d9l+71nfyfYSRw+MKg==","sender":"ddd"}
+{"datetime":"2019-03-16T11:18:56.430Z","message":"FgQN9/ERSwevM56furuXpCFuGDP/QJ5NuUJSDGeiam1zwzNPlGzYnKFLugt0ngEhSKEXHu2c4hTPRlKy4NHEDA==","sender":"ddd"}
+{"datetime":"2019-03-16T11:24:36.280Z","message":"Client connected to server..."}
+{"datetime":"2019-03-16T11:24:38.997Z","message":"Client connected to server..."}
+{"datetime":"2019-03-16T11:24:57.110Z","message":"Client connected to server..."}
+{"datetime":"2019-03-16T11:25:06.056Z","message":"Client connected to server..."}
+{"datetime":"2019-03-16T11:25:07.211Z","message":"User join boradcast...","user":"1 has joined the chat"}
+{"datetime":"2019-03-16T11:25:09.650Z","message":"User join boradcast...","user":"2 has joined the chat"}
+{"datetime":"2019-03-16T11:25:11.220Z","message":"DVv6PmD5dehRwKEteW4NRM8dIX0CZr06OSlv3atTyL/nQ26UvAXpDM+7hCwEV8YGH9uTPcn1YC3Fk+wxOy2z6g==","sender":"2"}
+{"datetime":"2019-03-16T11:25:16.434Z","message":"VPZ+up6ACv4O7kJBkMlsSl99d5gKBNNosttZ3E+SjCq8L1zlZWeaiuIVEaG+J5cKC8VsRbcEBjQZjGgbN4qeQA==","sender":"1"}
